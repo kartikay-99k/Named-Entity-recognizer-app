@@ -62,7 +62,7 @@ def main():
                 fp = Path(tmp_file.name)
                 fp.write_bytes(image_file.getvalue())
                 text = convert_image_to_text(tmp_file.name)
-                nlp = spacy.load("./model")
+                nlp = spacy.load("./model/")
                 doc = nlp(text)
                 for ent in doc.ents:
                     entity.append(ent.label_)
@@ -81,7 +81,7 @@ def main():
                 fp = Path(tmp_file.name)
                 fp.write_bytes(pdf_file.getvalue())
                 text = get_text_from_any_pdf(tmp_file.name)
-                nlp = spacy.load("./model")
+                nlp = spacy.load("./model/")
                 doc = nlp(text)
                 for ent in doc.ents:
                     entity.append(ent.label_)
