@@ -1,1 +1,1 @@
-# Named-Entity-recognizer-app
+# FLask app for Named-Entity-recognition
