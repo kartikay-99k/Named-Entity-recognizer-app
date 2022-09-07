@@ -13,7 +13,7 @@
 
 
 ## **How To Use**
-### 1. Run it locally (*Recommended for faster results*)   
+### Run it locally 
 
 Step 1. Clone the repository 
 
