@@ -7,7 +7,7 @@
 
 
 ## **How it Looks**
-![The First Page of app](https://raw.githubusercontent.com/kartikay-99k/EDA-and-Data-Preprocessing-app/main/Screenshot%202021-06-16%20180914.png "Starting Page after uploading dataset")    
+![The First Page of app](https://raw.githubusercontent.com/kartikay-99k/Named-Entity-recognizer-app/main/Screenshot%202022-09-07%20154333.png)    
 
 
 
